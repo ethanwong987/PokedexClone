@@ -7,3 +7,4 @@ Features include:
 - Randomly generate 20 Pokemon for a surprise.
 - View pokemon on the web through its profile page!
 
+![simulator screen shot - iphone 8 plus - 2018-04-03 at 18 29 41](https://user-images.githubusercontent.com/35559923/38283959-cdfd6fa4-376d-11e8-9710-1859ab05770f.png)
